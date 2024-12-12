@@ -8,7 +8,7 @@ import FooterComponent from './components/FooterComponent.jsx'
 
 function App() {
   return (
-    <div>
+    <div className="container">
       <HeaderComponent />
       <main>
         <PostCardComponent />
