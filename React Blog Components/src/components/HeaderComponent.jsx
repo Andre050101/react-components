@@ -1,9 +1,10 @@
 import React from 'react';
+import styles from './HeaderComponent.module.css';
 
 function HeaderComponent() {
     return (
-        <header>
-            <h1>Il mio blog</h1>
+        <header className={styles.header}>
+            <h1 className={styles.title}>Il mio blog</h1>
         </header>
     );
 }
