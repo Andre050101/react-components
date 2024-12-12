@@ -1,0 +1,15 @@
+/*Reset*/
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --Backg-clr: #e5e5e5;
+}
+
+body {
+  background-color: var(--Backg-clr);
+  font-family: Arial, Helvetica, sans-serif;
+}
