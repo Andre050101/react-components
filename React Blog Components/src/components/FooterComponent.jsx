@@ -7,3 +7,5 @@ function FooterComponent() {
         </footer>
     );
 }
+
+export default FooterComponent;
